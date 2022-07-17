@@ -1,3 +1,4 @@
-# java
+# learning-java-and-git
 
-My finished tasks from courses or studies.
+Repository for learning purpose.
+In this repo I learn how to use GIT and learn the basics of java.
