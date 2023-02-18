@@ -1,5 +1,5 @@
 package kursjavaodpodstaw;
-
+// operatory matematyczne umożliwiają wykonanie podstawowych operacji matematycznych
 public class OperatoryMatematyczne {
 
     public static void main(String[] args) {
