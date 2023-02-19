@@ -1,6 +1,4 @@
 
-
-
 public class Calculator {
 
     // dodawanie: metoda sum która będzie nam zwracała inta i na wejściu przyjmuje dwa inty
